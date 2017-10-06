@@ -3,6 +3,6 @@ Software Design and Implementation
 
 ## Software Design
 
-## Group B
+## Group : B
 
-## Tutor ===> Heather Powell
+## Tutor : Heather Powell
