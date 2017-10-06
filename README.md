@@ -1,4 +1,4 @@
-# Benguins
+## Benguins
 Software Design and Implementation
 
 ## Software Design
